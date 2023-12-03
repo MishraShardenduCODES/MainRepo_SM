@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main(){
     int x;
     printf("Tell how many terms you want to add -> ");
