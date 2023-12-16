@@ -1,0 +1,56 @@
+// 1. Write C program to find the area of the following: Triangle, Square, Rectangle and Circle. Implement the C program for all possible inputs appropriate message.
+// 2. Write a C program to compute the roots of the equation ax2 + bx + c = 0.
+// 3. Write a C program to check whether a number given by the user is zero, positive, or negative. If the number is a positive number then check if it is odd or even
+// 4. Write a C program to check whether a year given by the user is a leap year or not.
+// 5. Write a C program to check to read the marks of a student and classify them into different grades.
+//     If the marks secured are greater than or equal to 90, the student is awarded Grade A;
+//     if they are greater than or equal to 80 but less than 90, Grade B is awarded;
+//     if they are greater than or equal to 65 but less than 80, Grade C is awarded;
+//     otherwise Grade D is awarded.
+// 6. Write a C program to check whether a character entered by the user is a vowel or not. (use if-else, switch)
+// 7. Write a C program to implement bubble sort
+// 8. Write a C program to implement linear search
+// 9. Write a C program to implement binary search
+// 10. Write a C program using array to compute binary equivalent of a decimal number.
+// 11. Write C programs to store a list of integer numbers in an array and print the following:
+//     maximum value
+//     minimum value
+//     the average value
+// 12. Write a C program to check element uniqueness (if any duplicate element is present in the list).
+// 13. Write a C program store the list of integer numbers in an array. Arrange the numbers stored in an array in such a way that the array will have the odd numbers followed by the even numbers.
+// 14. Write programs to print the sum of the following series (with pow() library function): S = 1 + x + x^2 + x^3 + x^4 + ... n terms
+// 15. Write programs to print the sum of the following series (with pow() library function): S = - x + x^2 - x^3 + x^4 - ... n terms
+// 16. Write a C Program to read a matrix and  
+//     find sum of all elements
+//     print diagonal elements
+// 17. Write a C Program to read a matrix and
+//     find Row sum
+//     find column sum
+// 18. Write a C program to check a given matrix is an identity matrix or not
+// 19. Write a C program to print the upper triangular matrix
+// 20. Write a C Program to find multiplication of two matrices
+// 21. Write a C program to find total number of alphabets, digits or special character in a string.
+// 22. Write a C program to count total number of words in a string.
+// 23. Write a C program to check whether a string is palindrome or not.
+// 24. Write a C program to find the sum of the series : 2 + 4 + 8 + 16 + … up to N (two programs - using while, for).
+// 25. Write a C program for calculating the factorial of a given number N using recursion
+// 26. Write a C program for calculating the factorial of a given number N by creating a user defined function fact()
+// 27. Write a C program for calculating the nth fibonacci number using recursion
+// 28. Write a C program for calculating the nth fibonacci number by creating a user defined function fib()
+// 29. Write a C program to print the lower triangular matrix
+// 30. Write a C program to check if given two matrices are identical
+// 31. Write a C Program to find length of a string without using library function/s.
+// 32. Write a C program that will capitalize all the letters of a string.
+// 33. Write a C program that counts the total numbers of vowels and their frequency.
+// 34. Write a C program to compare given two strings without using builtin function.
+// 35. Write a C program to copy one string into another without using builtin function.
+// 36. Write a C program to find highest frequency character in a string.
+// 37. Write a C program to count no of lines, blank lines and comments in a given program.
+// 38. Write a C program with a function to find the sum of digits of a given number.
+// 39. Write a C program with a function to search a number within an array.
+// 40. Write a C program with a function that will read a string and convert all characters to capital letters.
+// 41. Write a C program to add a string to the end of another string without using any library function.
+// 42. Write a C program with a function to sort an array of integers in ascending order.
+// 43. Write a C program with a functions to perform addition, and subtraction, on two matrices depending upon the user’s choice.
+// 44. Write a C program to find the sum of n numbers using recursion
+// 45. Write a C program to implement Tower of Hanoi puzzle.
