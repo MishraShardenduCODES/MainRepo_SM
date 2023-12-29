@@ -1,0 +1,10 @@
+
+THe data of students is given by : 
+Float :     Marks :      Name :
+100         97.00        Shardendu Mishra
+101         98.00        Megahna Gupta
+102         99.00        Meghana Mishra
+
+THE HIGHEST MARKS ARE : 99
+The students who got the highest marks are :
+Meghana Mishra
