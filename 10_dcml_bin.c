@@ -8,6 +8,7 @@
 #define pan printf("Tell a no. :")
 #define pas printf("Tell a sentence :")
 #define sf scanf
+
 int main(){
     int a;
     printf("Tell a number : ");
